@@ -1,0 +1,26 @@
+.nav-color{
+    background-color:rgb(255, 255, 255) !important;
+}
+.home-text-color{
+    color:rgb(67, 1, 87) !important;
+}
+.hero-sub-text{
+    color:rgb(77, 3, 83);
+}
+.footer-links{
+    text-decoration:none;
+    color:black;
+}
+.logo-anime{
+    transition: all 0.5s;
+}
+.logo-anime:hover{
+transform:rotate(0.08turn);
+transform:scale(1.25);
+}
+.brand-anime{
+    transition: all 0.5s;
+}
+.brand-anime:hover{
+transform:scale(1.05);
+}
